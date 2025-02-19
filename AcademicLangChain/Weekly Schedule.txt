@@ -1,0 +1,56 @@
+Weekly Schedule
+
+Monday:
+
+1st Period - Mathematics (David Kim)
+2nd Period - Physical Education (Sophia Hernandez)
+3rd Period - Chemistry (Jasmine Gomez)
+4th Period - English Language Arts (Miguel Rodriguez)
+5th Period - Economics (Samantha Lee)
+6th Period - Art (Carlos Lopez)
+7th Period - Physics (Isabella Garcia)
+8th Period - Foreign Language (Michael Johnson)
+
+Tuesday:
+
+1st Period - Physics (Carlos Lopez)
+2nd Period - Chemistry (Emma Smith)
+3rd Period - English Language Arts (Samantha Lee)
+4th Period - Mathematics (Ava Chen)
+5th Period - Art (Jasmine Gomez)
+6th Period - Foreign Language (Sophia Hernandez)
+7th Period - Economics (Michael Johnson)
+8th Period - Physical Education (David Kim)
+
+Wednesday:
+
+1st Period - English Language Arts (Isabella Garcia)
+2nd Period - Mathematics (Sophia Hernandez)
+3rd Period - Physical Education (Miguel Rodriguez)
+4th Period - Art (Ava Chen)
+5th Period - Physics (Carlos Lopez)
+6th Period - Chemistry (Emma Smith)
+7th Period - Foreign Language (Michael Johnson)
+8th Period - Economics (Jasmine Gomez)
+
+Thursday:
+
+1st Period - Foreign Language (Sophia Hernandez)
+2nd Period - Chemistry (Jasmine Gomez)
+3rd Period - Art (Carlos Lopez)
+4th Period - Mathematics (David Kim)
+5th Period - Physics (Isabella Garcia)
+6th Period - English Language Arts (Emma Smith)
+7th Period - Economics (Ava Chen)
+8th Period - Physical Education (Samantha Lee)
+
+Friday:
+
+1st Period - Economics (Sophia Hernandez)
+2nd Period - Physics (Isabella Garcia)
+3rd Period - Mathematics (Jasmine Gomez)
+4th Period - Foreign Language (Carlos Lopez)
+5th Period - Physical Education (Samantha Lee)
+6th Period - Chemistry (David Kim)
+7th Period - English Language Arts (Emma Smith)
+8th Period - Art (Michael Johnson)
