@@ -1,1 +1,1 @@
-Academic Langchain Q&A System that processes Txt and CSV files using natural language processing and can answer any query for an Academic Database.
+I developed a Langchain Q&A System that processes TXT and CSV files using natural language processing, enabling it to efficiently answer queries for an Academic Database. This project leverages Langchain to enhance information retrieval and accessibility for educational data.
